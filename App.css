@@ -1,0 +1,41 @@
+.spans {
+  position: relative;
+  left: 570px;
+  top: 140px;
+  font-weight: bolder;
+}
+
+.addItem {
+  position: relative;
+  left: 570px;
+  top: 140px;
+}
+
+.AddBtn {
+  background-color: green;
+  color: White;
+}
+body{
+  background-color: white;
+}
+.listinfo{
+  color: white;
+  font-size: 20px;
+  position: relative;
+  left: 550px;
+  top: 170px;
+  border: 5px solid white;
+  width: 250px;
+  border-radius: 10px;
+  background-color: black;
+  justify-content: center;
+  text-align: center;
+}
+.deletebtn{
+  position: relative;
+  left: 800px;
+  top: 135px;
+  bottom: 150px;
+  color: white;
+  background-color: red;
+}
